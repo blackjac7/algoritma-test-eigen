@@ -8,7 +8,7 @@
 
     ```
 
-2. **Instalasi Dependensi**
+2. **Jalankan Program**
 
     Pastikan Anda sudah memiliki Node.js terinstal. Kemudian jalankan perintah berikut untuk menjalankan programnya:
 
